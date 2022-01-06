@@ -1,0 +1,7 @@
+id=P4XL3in1
+name=Pixel4XL 3in1
+version=0.0.1
+versionCode=1
+author=E.Z.C Modded by DaleSaika
+description=一个简单的三合一模块，为Pixel4XL增加电信和Volte支持，开启雷达，去掉网络连接受限。根据E.Z.C.的Pixel5NR模块修改。
+minMagisk=1500
