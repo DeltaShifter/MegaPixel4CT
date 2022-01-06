@@ -38,8 +38,7 @@ on_install() {
 
   ui_print "- Fully completed"
   ui_print "______________________________________________"
-  ui_print "           Original created by E.Z.C"
-  ui_print "   Consider donating if you like this module."
+  ui_print "            Original created by E.Z.C"
   ui_print "               Modded by DaleSaika."
   ui_print "                    Coolapk"
   ui_print "----------------------------------------------"
