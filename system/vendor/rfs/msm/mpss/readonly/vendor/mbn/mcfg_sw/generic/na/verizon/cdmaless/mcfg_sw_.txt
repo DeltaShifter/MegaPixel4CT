@@ -1,0 +1,15 @@
+#============================================================================
+#  Name:                                                                     
+#    mcfg_sw_bldpro.txt 
+#
+#  Description:                                                              
+#    None 
+#                                                                            
+# Copyright (c) 2020 by QUALCOMM Technologies, Incorporated.  All Rights Reserved.        
+#============================================================================
+#                                                                            
+# *** AUTO GENERATED FILE - DO NOT EDIT                                      
+#                                                                            
+# GENERATED: Tue Nov 24 00:42:50 2020 
+#============================================================================
+./modem_proc/mcfg/configs/mcfg_sw/generic/NA/Verizon/CDMAless/mcfg_sw.mbn
