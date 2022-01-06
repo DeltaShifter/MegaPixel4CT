@@ -8,9 +8,9 @@ LATESTARTSERVICE=true
 
   ui_print "Module installation is complete."
   ui_print "************************************"
-  ui_print "             Pixel 4 XL "
-  ui_print "               3 in 1 "
-  ui_print "Thank you for choosing this module"
+  ui_print "             MegaPixel4CT "
+  ui_print " Another CT support with some goodies "
+  ui_print "  Thank you for choosing this module"
   ui_print "************************************"
   ui_print "- Cleaning radio cache..."
 rm -r /data/vendor/radio
